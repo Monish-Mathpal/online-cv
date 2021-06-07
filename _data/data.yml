@@ -50,9 +50,9 @@ education:
       pretium quis, sem.
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: B.E in Electronics
+    university: Pune University
+    time: 2012
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -161,9 +161,9 @@ skills:
       level: 80%
     - name: 'AWS EMR, EC2 and Redshift'
       level: 70%
-    - name: 'SQL, NoSQL'
+    - name: SQL & NoSQL
       level: 85%
-    - name: 'Cassandra, Vertica'
+    - name: Cassandra & Vertica
       level: 80%
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a
